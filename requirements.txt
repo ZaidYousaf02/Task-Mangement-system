@@ -1,0 +1,30 @@
+# Task Management System - Requirements
+
+
+# Core Python packages (included in standard library)
+# - datetime: Date and time handling
+# - typing: Type hints and annotations
+# - dataclasses: Data structure definitions
+# - enum: Enumerations for constants
+# - abc: Abstract base classes
+# - json: JSON serialization
+# - re: Regular expressions
+# - hashlib: Password hashing
+# - secrets: Secure random generation
+# - uuid: Unique identifier generation
+
+# Testing framework
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Code quality and formatting
+black>=22.0.0
+flake8>=5.0.0
+mypy>=1.0.0
+
+# Documentation
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.0.0
+
+# Development tools
+pre-commit>=2.20.0
